@@ -1,0 +1,31 @@
+label {
+	width:190px;
+	display:block;
+	float:left;
+	}
+	
+fieldset{border:1px solid #ccc;padding:10px;}
+legend {
+	font-weight:bold;
+	border:1px solid #ccc;
+	padding:1px 4px; 
+	}
+label.opcoes {
+	font-weight:bold;
+	margin:0;
+	}
+form div {margin:15px 0 0 0;}
+.mudar, .opcoes {
+	width:100%;
+	overflow:auto;
+	}
+.mudar{background:#d6e2e5;}
+.opcoes{background:#add6ef;padding:10px 0;}
+
+.legenda {
+	margin:0;
+	background:#bfe2d8;
+	padding:2px 5px;
+	font-size:14px;
+	}
+.fieldset {border-style:dotted;}

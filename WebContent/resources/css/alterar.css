@@ -1,0 +1,31 @@
+.cad_curso {
+	clear: both; 
+	height:388px;
+	width: 580px; 
+	margin-top: 20px;
+	border: solid 0px orange;
+}
+
+.cad_curso_linha {
+  	clear:both;
+	height: 30px;
+	margin: auto;
+	border: solid 0px pink;
+}
+
+.cad_curso_coluna_lb {
+	width: 150px;
+	margin:auto; 
+	float: left;
+	margin-left: 0px; 
+	border: solid 0px red;
+}
+
+.cad_curso_coluna_input {
+	width: 320px;  
+	margin:auto;
+	float:left; 
+	margin-left: 0px;
+	border: solid 0px red;
+}
+

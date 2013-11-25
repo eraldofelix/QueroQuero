@@ -1,0 +1,47 @@
+.cad_curso {
+	clear: both; 
+	height:88px;
+	width: 480px; 
+	border: solid 0px #000;
+}
+
+.cad_curso_linha {
+	clear: both;  
+	height: 30px;
+	margin-left:0px; 
+	border: solid 0px #575757;
+}
+
+.cad_curso_coluna_lb {
+	width: 130px; 
+	float:left; 
+	margin-left: 0px;
+	border: solid 0px red;
+}
+
+.cad_curso_coluna_input {
+	width: 258px; 
+	margin: auto; 
+	float:left; 
+	margin-left: 0px;
+	border: solid 0px red;
+}
+
+.msgCadastro {
+border: 1px solid #add6ef;
+padding: 2px 4px;
+background: #ffc5c5;
+marginLeft: 10px;
+font-color: red;
+text-align: center;
+color: red;
+}
+
+#lb_cad_curso {
+	float: right;
+}
+
+#field {
+	width: 500px;
+}
+

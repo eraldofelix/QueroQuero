@@ -1,0 +1,28 @@
+body {
+	
+	background: #fff url(images/body_bg2.jpg) repeat-x scroll left top;
+	
+}
+
+
+.tudo {
+	width: 1124px;
+	height: auto;
+	background: #fff;
+	margin: auto; 
+	margin-top: 50px;
+	border: solid 2px #000;
+}
+
+.cabecalho {
+	background: url("images/cabecalho.jpg") no-repeat scroll center top;
+	clear: both; 
+	height:154px; 
+	border: solid 0px #000;
+	border-bottom: solid 1px #90e1ff;
+}
+
+.rodape {
+	background: #000 url("images/rodape.jpg") no-repeat scroll right top;;
+	height:25px; 
+}
